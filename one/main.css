@@ -1,0 +1,14 @@
+body {
+    min-height: 2000px;
+    margin: 0;
+}
+#one {
+    background-color: indianred;
+    height: 800px;
+}
+
+#two {
+    height: 300px;
+    background-color: #f3d8d8;
+    opacity: 0;
+}
